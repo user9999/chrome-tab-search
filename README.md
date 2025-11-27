@@ -135,6 +135,6 @@ Email: admin@def-expert.ru
 
 🔗 Ссылки
 
-https://wwwtools
+https://wwwtools.ru
 
 https://def-expert.ru
